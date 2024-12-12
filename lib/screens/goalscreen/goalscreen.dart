@@ -1,7 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:fitness/models/DetailPageTitle.dart';
-import 'package:fitness/models/detailpagebutton.dart';
-import 'package:fitness/models/list_wheel_view_scroller.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart'; // Import Firebase Auth package
 

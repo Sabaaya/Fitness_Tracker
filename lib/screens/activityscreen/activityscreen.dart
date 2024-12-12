@@ -1,9 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart'; // Import Firebase Auth package
 import 'package:flutter/material.dart';
-import 'package:fitness/models/DetailPageButton.dart';
 import 'package:fitness/models/DetailPageTitle.dart';
-import 'package:fitness/models/list_wheel_view_scroller.dart';
 
 class Activityscreen extends StatefulWidget {
   const Activityscreen({super.key});
